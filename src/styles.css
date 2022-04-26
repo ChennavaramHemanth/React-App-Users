@@ -1,0 +1,13 @@
+nav a {
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.imageDisplay {
+  width: 100%;
+  cursor: pointer;
+}
+
+.userData {
+text-align: left;
+}
